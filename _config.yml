@@ -7,4 +7,4 @@ favlogo_ico: "./assets/FAF-Logo.ico"
 url: https://just-the-docs.github.io
 nav_enabled: true
 search_enabled: false
-color_scheme: "dark"
+# color_scheme: "dark"
